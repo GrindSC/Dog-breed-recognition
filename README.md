@@ -61,12 +61,12 @@ python predict.py
 ## Example
 
 Below is an example of the output produced by the project after running the `predict.py` script on an image. The first image shows the detection result from **YOLOv8**, while the second image showcases the predicted breed of the detected dog with its corresponding probability distribution.  
-![Detection Output](Examples\detection.png)
+![Detection Output](Examples/detection.png)  
 Predicted dog breed: Great Pyrenees  
 86.29% Great Pyrenees  
 13.16% Kuvasz  
 0.22% Clumber  
-![Predicted Dog Breed](Examples\pred_example.png)
+![Predicted Dog Breed](Examples/pred_example.png)
 
 ## Future Improvements
 
