@@ -38,8 +38,11 @@ To run this project, you'll need the following dependencies installed in your Py
 - `numpy`
 - `matplotlib`
 
-You can install the dependencies with:  
+You can install the dependencies with:
+
+```
 pip install opencv-python ultralytics tensorflow numpy matplotlib
+```
 
 ## How to Run
 
